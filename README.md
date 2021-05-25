@@ -1,0 +1,1 @@
+This is my first AI assistant. Simple, easy to create, but quite a big step into the **machine learning** Python.
