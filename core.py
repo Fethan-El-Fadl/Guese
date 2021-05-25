@@ -100,6 +100,9 @@ if __name__ == "__main__":
         elif 'open e drive' in query:
             codepath = "E:"
             os.startfile(codepath)
+        elif 'open c drive' in query:
+            codepath = "C:"
+            os.startfile(codepath)
         
         
                 
