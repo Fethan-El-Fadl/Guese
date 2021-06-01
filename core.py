@@ -92,7 +92,7 @@ if __name__ == "__main__":
             os.startfile(codepath) 
 
         elif 'open steam' in query:
-            codepath = "E:\\Visual Studio Code\\Code.exe"
+            codepath = "C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam"
             os.startfile(codepath)
         elif 'open epic games' in query:
             codepath = "E:\\Visual Studio Code\\Code.exe"
