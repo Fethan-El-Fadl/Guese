@@ -103,6 +103,9 @@ if __name__ == "__main__":
         elif 'open c drive' in query:
             codepath = "C:"
             os.startfile(codepath)
+        elif 'open Battlefield' in query:
+            codepath = "E:\\AGFY-Battlefield.4\\AGFY-Battlefield.4\\Battlefield.4\\Battlefield 4\\bf4.exe"
+            os.startfile(codepath)
         
         
                 
